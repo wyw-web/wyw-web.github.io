@@ -2,44 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wyw-web.github.io/wyw-web.github.io/</id>
     <title>我的个人网站</title>
-    <updated>2020-10-05T03:02:04.095Z</updated>
+    <updated>2020-10-05T06:33:47.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wyw-web.github.io/wyw-web.github.io/"/>
     <link rel="self" href="https://wyw-web.github.io/wyw-web.github.io/atom.xml"/>
-    <subtitle>个人网站</subtitle>
+    <subtitle>你好！</subtitle>
     <logo>https://wyw-web.github.io/wyw-web.github.io/images/avatar.png</logo>
     <icon>https://wyw-web.github.io/wyw-web.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 我的个人网站</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://wyw-web.github.io/wyw-web.github.io/post/hello-gridea/</id>
-        <link href="https://wyw-web.github.io/wyw-web.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[北大记录]]></title>
+        <id>https://wyw-web.github.io/wyw-web.github.io/post/bei-da-ji-lu/</id>
+        <link href="https://wyw-web.github.io/wyw-web.github.io/post/bei-da-ji-lu/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2020-10-05T06:28:59.000Z</updated>
+        <content type="html"><![CDATA[<p>红楼飞雪，一时英杰，先哲曾书写，爱国进步民主科学。<br>
+忆昔长别，阳关千叠，狂歌曾竞夜，收拾山河待百年约。<br>
+我们来自江南塞北，情系着城镇乡野；<br>
+我们走向海角天涯，指点着三山五岳。<br>
+我们今天东风桃李，用青春完成作业；<br>
+我们明天巨木成林，让中华震惊世界。<br>
+燕园情，千千结，问少年心事，<br>
+眼底未名水，胸中黄河月。<img src="https://wyw-web.github.io/wyw-web.github.io//post-images/1601879523127.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的家乡]]></title>
+        <id>https://wyw-web.github.io/wyw-web.github.io/post/wo-de-jia-xiang/</id>
+        <link href="https://wyw-web.github.io/wyw-web.github.io/post/wo-de-jia-xiang/">
+        </link>
+        <updated>2020-10-05T06:16:29.000Z</updated>
+        <content type="html"><![CDATA[<p>桂林 （广西壮族自治区下辖市）<br>
+桂林，是世界著名风景游览城市、万年智慧圣地 ，是国务院批复确定的中国对外开放国际旅游城市、全国旅游创新发展先行区和国际旅游综合交通枢纽，截至2019年，全市下辖6区10县、代管1个县级市、总面积2.78万平方公里，建成区面积162平方千米，常住人口530余万，城镇人口247.34万人，城镇化率55%。<br>
+桂林地处中国华南，湘桂走廊南端，是中央军委桂林联勤保障中心驻地、国家可持续发展议程创新示范区、 中国旅游业态风向标，联合国世界旅游组织/亚太旅游协会旅游趋势与展望国际论坛永久举办地，是泛珠江三角洲经济区与东盟自由贸易区战略交汇的重要节点城市。<br>
+桂林是首批国家历史文化名城，广西历史上最早的文化教育中心，1201年，著名诗人王正功赋诗“桂林山水甲天下”。拥有世界自然遗产桂林山水、世界灌溉遗产灵渠，甑皮岩是桂林向世界展现中华民族“万年智慧”的历史文化名片   ，甑皮岩发现的陶雏器填补世界陶器起源空白  ，是中国制陶技术重要的起源地之一   。桂林是广西重要高校集聚区，拥有广西师范大学、桂林电子科技大学、桂林理工大学、桂林医学院、陆军特种作战学院等16所高校。ESI学科1%入选高校4所，入选高校位居广西第一，第四轮学科评估32个学科入选。<br>
+2012年11月，国家发展和改革委员会发布《桂林国际旅游胜地建设发展规划纲要》，把建设桂林国际旅游胜地作为深入实施西部大开发战略的重要举措，2020年将桂林发展为世界一流国际旅游城市。2020年7月，世界漂流世锦赛将在桂林举行。<br>
+<img src="https://wyw-web.github.io/wyw-web.github.io//post-images/1601879110206.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自我介绍]]></title>
+        <id>https://wyw-web.github.io/wyw-web.github.io/post/zi-wo-jie-shao/</id>
+        <link href="https://wyw-web.github.io/wyw-web.github.io/post/zi-wo-jie-shao/">
+        </link>
+        <updated>2020-10-05T06:00:22.000Z</updated>
+        <content type="html"><![CDATA[<p>你好，我是来自公共卫生学院的北大萌新，欢迎访问我的个人网站！</p>
+<p>我来自广西桂林，一个以山水闻名的美丽城市。平时喜欢阅读、听音乐，还喜欢一个人出去散步溜达，喜欢去各种各样的地方旅游。对中国古典文化感兴趣，喜欢逛博物馆，参观历史文化景区。<br>
+出来北京，我认识了许多新的朋友，也学习到许多新的知识。希望访问这个网站的你能够喜欢它，也欢迎对它提出意见！</p>
 ]]></content>
     </entry>
 </feed>
